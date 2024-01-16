@@ -1,0 +1,125 @@
+
+***************************************************
+Order No# :: T2023051810345500628
+Order Time :: 2023-05-18 10:34:55
+Response Code000
+Return Status :: mwSuccess
+Order Message :: <span style="color:green;" >Thanks, Your Order has been processed.</span>
+Return Status :: mwSuccess
+Order Message :: <span style="color:green;" >Thanks, Your Order has been processed.</span>
+***************************************************
+Order No# :: T2023051810364200246
+Order Time :: 2023-05-18 10:36:42
+Response Code000
+Return Status :: cardSuccess
+Order Message :: <span style="color:green;" >Thanks, Your Order has been processed.</span>
+Return Status :: cardSuccess
+Order Message :: <span style="color:green;" >Thanks, Your Order has been processed.</span>
+***************************************************
+Order No# :: T2023051810404700468
+Order Time :: 2023-05-18 10:40:47
+Return Status :: pending
+Order Message :: 
+Return Status :: pending
+Order Message :: 
+***************************************************
+Order No# :: T2023051810440000149
+Order Time :: 2023-05-18 10:44:00
+Return Status :: pending
+Order Message :: 
+Return Status :: pending
+Order Message :: 
+***************************************************
+Order No# :: T2023051810480500161
+Order Time :: 2023-05-18 10:48:05
+Response Code000
+Response Code000
+Return Status :: mwSuccess
+Order Message :: <span style="color:green;" >Thanks, Your Order has been processed.</span>
+Return Status :: mwSuccess
+Order Message :: <span style="color:green;" >Thanks, Your Order has been processed.</span>
+***************************************************
+Order No# :: T2023051810572400560
+Order Time :: 2023-05-18 10:57:24
+Response Code000
+Return Status :: mwSuccess
+Order Message :: <span style="color:green;" >Thanks, Your Order has been processed.</span>
+***************************************************
+Order No# :: T2023051811243700050
+Order Time :: 2023-05-18 11:24:37
+Response Code000
+Return Status :: cardSuccess
+Order Message :: <span style="color:green;" >Thanks, Your Order has been processed.</span>
+Return Status :: cardSuccess
+Order Message :: <span style="color:green;" >Thanks, Your Order has been processed.</span>
+***************************************************
+Order No# :: T2023051811255600512
+Order Time :: 2023-05-18 11:25:56
+Response Code000
+Return Status :: mwSuccess
+Order Message :: <span style="color:green;" >Thanks, Your Order has been processed.</span>
+Return Status :: mwSuccess
+Order Message :: <span style="color:green;" >Thanks, Your Order has been processed.</span>
+Return Status :: mwSuccess
+Order Message :: <span style="color:green;" >Thanks, Your Order has been processed.</span>
+Return Status :: mwSuccess
+Order Message :: <span style="color:green;" >Thanks, Your Order has been processed.</span>
+***************************************************
+Order No# :: T2023051811303400100
+Order Time :: 2023-05-18 11:30:34
+Return Status :: mwPending
+Order Message :: 
+Return Status :: mwPending
+Order Message :: <span style="color:green;" >Transaction is pending. Please open your wallet and go to &#039;my approval&#039; option to approve the transaction.</span>
+***************************************************
+Order No# :: T2023051815260700258
+Order Time :: 2023-05-18 03:26:07
+Response Code000
+Return Status :: mwSuccess
+Order Message :: <span style="color:green;" >Thanks, Your Order has been processed.</span>
+Return Status :: mwSuccess
+Order Message :: <span style="color:green;" >Thanks, Your Order has been processed.</span>
+***************************************************
+Order No# :: T2023051815281000406
+Order Time :: 2023-05-18 03:28:10
+***************************************************
+Order No# :: T2023051815292700225
+Order Time :: 2023-05-18 03:29:27
+***************************************************
+Order No# :: T2023051815321000745
+Order Time :: 2023-05-18 03:32:10
+Return Status :: mwFailure
+Order Message :: <span style="color:red;" >Sorry! Your Order has been failed.</span>
+Return Status :: mwFailure
+Order Message :: <span style="color:red;" >Sorry! Your Order has been failed.</span>
+Return Status :: mwFailure
+Order Message :: <span style="color:red;" >Sorry! Your Order has been failed.</span>
+Return Status :: mwFailure
+Order Message :: <span style="color:red;" >Sorry! Your Order has been failed.</span>
+***************************************************
+Order No# :: T2023051913591300021
+Order Time :: 2023-05-19 01:59:13
+***************************************************
+Order No# :: T2023051913594800915
+Order Time :: 2023-05-19 01:59:48
+Response 1
+Response Code 156
+ pp_TxnType MWALLET
+
+  Envelop pp_Amount[1800],<br/>pp_AuthCode[],<br/>pp_BillReference[1494],<br/>pp_CNIC[512345],<br/>pp_DiscountedAmount[],<br/>pp_Language[EN],<br/>pp_MerchantID[MC0798],<br/>pp_MobileNumber[03026067606],<br/>pp_ResponseCode[156],<br/>pp_ResponseMessage[Oops, something went wrong. We think either your wallet does not exist or your cnic did not match. Please check with our helpline for details.],<br/>pp_RetreivalReferenceNo[],<br/>pp_SecureHash[2584EAF8A3F419B59E04A909DBE3A479CE32DFBCD70C1E9A131E9CD6D91E7335],<br/>pp_SubMerchantID[],<br/>pp_TxnCurrency[PKR],<br/>pp_TxnDateTime[20230519135948],<br/>pp_TxnRefNo[T2023051913594800915],<br/>pp_TxnType[MWALLET],<br/>pp_Version[2.0],<br/>ppmpf_1[],<br/>ppmpf_2[],<br/>ppmpf_3[],<br/>ppmpf_4[],<br/>ppmpf_5[],<br/>
+Return Status :: mwFailure
+Order Message :: <span style="color:red;" >Sorry! Your Order has been failed.</span>
+Return Status :: mwFailure
+Order Message :: <span style="color:red;" >Sorry! Your Order has been failed.</span>
+***************************************************
+Order No# :: T2023051914044600829
+Order Time :: 2023-05-19 02:04:46
+Response 1
+Response Code 000
+ pp_TxnType MIGS
+
+  Envelop pp_Amount[1800],<br/>pp_AuthCode[],<br/>pp_BankID[],<br/>pp_BillReference[1497],<br/>pp_Language[EN],<br/>pp_MerchantID[MC0798],<br/>pp_ResponseCode[000],<br/>pp_ResponseMessage[Thank you for Using JazzCash, your transaction was successful.],<br/>pp_RetreivalReferenceNo[230519350574],<br/>pp_SecureHash[055F71636CE688C9838823220EA115E7195A68306C1B48D363BD7E150518BD4A],<br/>pp_SettlementExpiry[],<br/>pp_SubMerchantId[],<br/>pp_TxnCurrency[PKR],<br/>pp_TxnDateTime[20230519140446],<br/>pp_TxnRefNo[T2023051914044600829],<br/>pp_TxnType[MIGS],<br/>pp_Version[2.0],<br/>ppmpf_1[],<br/>ppmpf_2[],<br/>ppmpf_3[],<br/>ppmpf_4[],<br/>ppmpf_5[],<br/>
+Return Status :: cardSuccess
+Order Message :: <span style="color:green;" >Thanks, Your Order has been processed.</span>
+Return Status :: cardSuccess
+Order Message :: <span style="color:green;" >Thanks, Your Order has been processed.</span>

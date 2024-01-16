@@ -1,0 +1,403 @@
+
+***************************************************
+Order No# :: T2023051816040700645
+Order Time :: 2023-05-18 04:04:07
+***************************************************
+Order No# :: T2023051816043100875
+Order Time :: 2023-05-18 04:04:31
+Response Code199
+ pp_TxnTypeMIGS
+Return Status :: migsFailure
+Order Message :: <span style="color:red;" >Sorry! Your Order has been failed.</span>
+Return Status :: migsFailure
+Order Message :: <span style="color:red;" >Sorry! Your Order has been failed.</span>
+Response Code156
+ pp_TxnTypeMWALLET
+Return Status :: mwFailure
+Order Message :: <span style="color:red;" >Sorry! Your Order has been failed.</span>
+Return Status :: mwFailure
+Order Message :: <span style="color:red;" >Sorry! Your Order has been failed.</span>
+***************************************************
+Order No# :: T2023051816071700855
+Order Time :: 2023-05-18 04:07:17
+Response Code199
+ pp_TxnTypeMWALLET
+Return Status :: mwFailure
+Order Message :: <span style="color:red;" >Sorry! Your Order has been failed.</span>
+Return Status :: mwFailure
+Order Message :: <span style="color:red;" >Sorry! Your Order has been failed.</span>
+***************************************************
+Order No# :: T2023051816093500757
+Order Time :: 2023-05-18 04:09:35
+Response Code999
+ pp_TxnTypeMWALLET
+Return Status :: mwFailure
+Order Message :: <span style="color:red;" >Sorry! Your Order has been failed.</span>
+Return Status :: mwFailure
+Order Message :: <span style="color:red;" >Sorry! Your Order has been failed.</span>
+***************************************************
+Order No# :: T2023051816172600429
+Order Time :: 2023-05-18 04:17:26
+Response Code999
+ pp_TxnTypeMWALLET
+Return Status :: mwFailure
+Order Message :: <span style="color:red;" >MWALLET Failure.</span>
+Return Status :: mwFailure
+Order Message :: <span style="color:red;" >Sorry! Your Order has been failed.</span>
+Return Status :: mwFailure
+Order Message :: <span style="color:red;" >MWALLET Failure.</span>
+Return Status :: mwFailure
+Order Message :: <span style="color:red;" >Sorry! Your Order has been failed.</span>
+***************************************************
+Order No# :: T2023051816234300495
+Order Time :: 2023-05-18 04:23:43
+Response Code999
+ pp_TxnTypeMWALLET
+Return Status :: mwFailure
+Order Message :: <span style="color:red;" >MWALLET Failure.</span>
+Return Status :: mwFailure
+Order Message :: <span style="color:red;" >Sorry! Your Order has been failed.</span>
+Return Status :: mwFailure
+Order Message :: <span style="color:red;" >MWALLET Failure.</span>
+Return Status :: mwFailure
+Order Message :: <span style="color:red;" >MWallet Failure.</span>
+***************************************************
+Order No# :: T2023051816273600174
+Order Time :: 2023-05-18 04:27:36
+***************************************************
+Order No# :: T2023051816281000492
+Order Time :: 2023-05-18 04:28:10
+Response Code999
+ pp_TxnTypeMWALLET
+Return Status :: mwFailure
+Order Message :: <span style="color:red;" >MWALLET Failure.</span>
+Return Status :: mwFailure
+Order Message :: <span style="color:red;" >MWallet Failure.</span>
+Response Code000
+ pp_TxnTypeMIGS
+Return Status :: cardSuccess
+Order Message :: <span style="color:green;" >Thanks, Your Order has been processed.</span>
+Return Status :: cardSuccess
+Order Message :: <span style="color:green;" >Thanks, Your Order has been processed.</span>
+***************************************************
+Order No# :: T2023051816302200260
+Order Time :: 2023-05-18 04:30:22
+Response Code000
+ pp_TxnTypeMWALLET
+Return Status :: mwSuccess
+Order Message :: <span style="color:green;" >Thanks, Your Order has been processed.</span>
+Return Status :: mwSuccess
+Order Message :: <span style="color:green;" >Thanks, Your Order has been processed.</span>
+***************************************************
+Order No# :: T2023051816321400409
+Order Time :: 2023-05-18 04:32:14
+Response Code 199
+ pp_TxnType MWALLET
+Return Status :: mwFailure
+Order Message :: <span style="color:red;" >MWALLET Failure.</span>
+Return Status :: mwFailure
+Order Message :: <span style="color:red;" >MWallet Failure.</span>
+Return Status :: mwFailure
+Order Message :: <span style="color:red;" >MWALLET Failure.</span>
+Return Status :: mwFailure
+Order Message :: <span style="color:red;" >MWallet Failure.</span>
+***************************************************
+Order No# :: T2023051817264100847
+Order Time :: 2023-05-18 05:26:41
+Response Code 999
+ pp_TxnType MWALLET
+Return Status :: pending
+Order Message :: 
+Return Status :: pending
+Order Message :: 
+***************************************************
+Order No# :: T2023051817334300535
+Order Time :: 2023-05-18 05:33:43
+Response Code 157
+ pp_TxnType MWALLET
+Return Status :: mwPending
+Order Message :: 
+Return Status :: mwPending
+Order Message :: <span style="color:green;" >Transaction is pending. Please open your wallet and go to &#039;my approval&#039; option to approve the transaction.</span>
+***************************************************
+Order No# :: T2023051817401800509
+Order Time :: 2023-05-18 05:40:18
+Response Code 134
+ pp_TxnType 
+Return Status :: timeOut
+Order Message :: <span style="color:red;" >Sorry! Your Order has been failed.</span>
+Return Status :: timeOut
+Order Message :: <span style="color:red;" >Sorry! Your Order has been failed.</span>
+***************************************************
+Order No# :: T2023051818162200012
+Order Time :: 2023-05-18 06:16:22
+Response Code 134
+ pp_TxnType 
+Return Status :: timeOut
+Order Message :: <span style="color:red;" >Sorry! Your Order has been failed.</span>
+Return Status :: timeOut
+Order Message :: <span style="color:red;" >Sorry! Your Order has been failed.</span>
+Return Status :: mwFailure
+Order Message :: <span style="color:red;" >MWALLET Failure.</span>
+Return Status :: mwFailure
+Order Message :: <span style="color:red;" >MWallet Failure.</span>
+***************************************************
+Order No# :: T2023051909472000031
+Order Time :: 2023-05-19 09:47:20
+Response Code 157
+ pp_TxnType MWALLET
+Return Status :: mwPending
+Order Message :: 
+Return Status :: mwPending
+Order Message :: <span style="color:green;" >Transaction is pending. Please Login JazzCash App &gt; Select My Account &gt; Payment Request &gt; Select Transaction and Enter MPIN.</span>
+***************************************************
+Order No# :: T2023051910060800751
+Order Time :: 2023-05-19 10:06:08
+Response Code 999
+ pp_TxnType MWALLET
+Return Status :: pending
+Order Message :: 
+Return Status :: pending
+Order Message :: 
+***************************************************
+Order No# :: T2023051910224000052
+Order Time :: 2023-05-19 10:22:40
+Response Code 157
+ pp_TxnType MWALLET
+Return Status :: mwPending
+Order Message :: 
+Return Status :: mwPending
+Order Message :: <span style="color:green;" >Transaction is pending. Please Login JazzCash App &gt; Select My Account &gt; Payment Request &gt; Select Transaction and Enter MPIN.</span>
+***************************************************
+Order No# :: T2023051910475500808
+Order Time :: 2023-05-19 10:47:55
+Response Code 156
+ pp_TxnType MWALLET
+Return Status :: mwFailure
+Order Message :: <span style="color:red;" >MWALLET Failure.</span>
+Return Status :: mwFailure
+Order Message :: <span style="color:red;" >MWallet Failure.</span>
+***************************************************
+Order No# :: T2023051910491400368
+Order Time :: 2023-05-19 10:49:14
+Response Code 156
+ pp_TxnType MWALLET
+Return Status :: mwFailure
+Order Message :: <span style="color:red;" >MWALLET Failure.</span>
+Return Status :: mwFailure
+Order Message :: <span style="color:red;" >MWallet Failure.</span>
+***************************************************
+Order No# :: T2023051910523300628
+Order Time :: 2023-05-19 10:52:33
+Response Code 999
+ pp_TxnType MWALLET
+Return Status :: pending
+Order Message :: 
+Return Status :: pending
+Order Message :: 
+Return Status :: pending
+Order Message :: 
+Return Status :: pending
+Order Message :: 
+***************************************************
+Order No# :: T2023051910595100132
+Order Time :: 2023-05-19 10:59:51
+Response Code 999
+ pp_TxnType MWALLET
+Return Status :: pending
+Order Message :: 
+Return Status :: pending
+Order Message :: 
+***************************************************
+Order No# :: T2023051911043200095
+Order Time :: 2023-05-19 11:04:32
+Response Code 999
+ pp_TxnType MWALLET
+Return Status :: pending
+Order Message :: 
+Return Status :: pending
+Order Message :: 
+Return Status :: pending
+Order Message :: 
+Return Status :: pending
+Order Message :: 
+***************************************************
+Order No# :: T2023051911063600244
+Order Time :: 2023-05-19 11:06:36
+***************************************************
+Order No# :: T2023051911064500176
+Order Time :: 2023-05-19 11:06:45
+Response Code 156
+ pp_TxnType MWALLET
+Return Status :: pending
+Order Message :: 
+Return Status :: pending
+Order Message :: 
+Response Code 999
+ pp_TxnType MWALLET
+Return Status :: pending
+Order Message :: 
+Return Status :: pending
+Order Message :: 
+***************************************************
+Order No# :: T2023051911092000397
+Order Time :: 2023-05-19 11:09:20
+Response Code 999
+ pp_TxnType MWALLET
+Return Status :: pending
+Order Message :: 
+Return Status :: pending
+Order Message :: 
+***************************************************
+Order No# :: T2023051911101800199
+Order Time :: 2023-05-19 11:10:18
+Response Code 999
+ pp_TxnType MWALLET
+Return Status :: pending
+Order Message :: 
+Return Status :: pending
+Order Message :: 
+***************************************************
+Order No# :: T2023051911154700243
+Order Time :: 2023-05-19 11:15:47
+Response Code 999
+ pp_TxnType MWALLET
+***************************************************
+Order No# :: T2023051911220100992
+Order Time :: 2023-05-19 11:22:02
+Response Code 999
+ pp_TxnType MWALLET
+***************************************************
+Order No# :: T2023051911275600933
+Order Time :: 2023-05-19 11:27:56
+Response Code 999
+ pp_TxnType MWALLET
+Return Status :: mwFailure
+Order Message :: <span style="color:red;" >MWALLET Failure.</span>
+Return Status :: mwFailure
+Order Message :: <span style="color:red;" >MWallet Failure.</span>
+***************************************************
+Order No# :: T2023051911355600485
+Order Time :: 2023-05-19 11:35:56
+Response Code 999
+ pp_TxnType MWALLET
+Return Status :: pending
+Order Message :: 
+Return Status :: pending
+Order Message :: 
+Return Status :: mwFailure
+Order Message :: <span style="color:red;" >MWALLET Failure.</span>
+Return Status :: mwFailure
+Order Message :: <span style="color:red;" >MWallet Failure.</span>
+***************************************************
+Order No# :: T2023051911405300828
+Order Time :: 2023-05-19 11:40:53
+Response Code 999
+ pp_TxnType MWALLET
+***************************************************
+Order No# :: T2023051911451100099
+Order Time :: 2023-05-19 11:45:11
+***************************************************
+Order No# :: T2023051911455100119
+Order Time :: 2023-05-19 11:45:51
+Response Code 999
+ pp_TxnType MWALLET
+Response  
+Response Code 999
+ pp_TxnType MWALLET
+Response  
+Response Code 999
+ Data pp_Amount[19900],<br/>pp_AuthCode[],<br/>pp_BillReference[129],<br/>pp_CNIC[345678],<br/>pp_DiscountedAmount[],<br/>pp_Language[EN],<br/>pp_MerchantID[MC0798],<br/>pp_MobileNumber[03332225222],<br/>pp_ResponseCode[999],<br/>pp_ResponseMessage[],<br/>pp_RetreivalReferenceNo[230519350500],<br/>pp_SecureHash[F449C50428A145358A6D027439E4C418D1FB3710C9DC9046D0F4C865DF60D3BD],<br/>pp_SubMerchantID[],<br/>pp_TxnCurrency[PKR],<br/>pp_TxnDateTime[20230519114511],<br/>pp_TxnRefNo[T2023051911451100099],<br/>pp_TxnType[MWALLET],<br/>pp_Version[2.0],<br/>ppmpf_1[],<br/>ppmpf_2[],<br/>ppmpf_3[],<br/>ppmpf_4[],<br/>ppmpf_5[],<br/>Secure Hash mismatched.
+Response  
+Response Code 
+ Data Secure Hash is empty.
+***************************************************
+Order No# :: T2023051911572100511
+Order Time :: 2023-05-19 11:57:21
+Response Code 999
+ pp_TxnType MWALLET
+***************************************************
+Order No# :: T2023051912050800382
+Order Time :: 2023-05-19 12:05:08
+Response 1
+Response Code 999
+ pp_TxnType MWALLET
+
+  Envelop pp_Amount[19900],<br/>pp_AuthCode[],<br/>pp_BillReference[132],<br/>pp_CNIC[345678],<br/>pp_DiscountedAmount[],<br/>pp_Language[EN],<br/>pp_MerchantID[MC0798],<br/>pp_MobileNumber[03123546456],<br/>pp_ResponseCode[999],<br/>pp_ResponseMessage[],<br/>pp_RetreivalReferenceNo[230519350508],<br/>pp_SecureHash[7FAF215DC78CAE60E1100535129F7427872F3619D81F6AAAF70F78B82B3C2B11],<br/>pp_SubMerchantID[],<br/>pp_TxnCurrency[PKR],<br/>pp_TxnDateTime[20230519120508],<br/>pp_TxnRefNo[T2023051912050800382],<br/>pp_TxnType[MWALLET],<br/>pp_Version[2.0],<br/>ppmpf_1[],<br/>ppmpf_2[],<br/>ppmpf_3[],<br/>ppmpf_4[],<br/>ppmpf_5[],<br/>
+Return Status :: mwFailure
+Order Message :: <span style="color:red;" >MWALLET Failure.</span>
+Return Status :: mwFailure
+Order Message :: <span style="color:red;" >MWallet Failure.</span>
+***************************************************
+Order No# :: T2023051912103900873
+Order Time :: 2023-05-19 12:10:39
+Response 
+Response Code 156
+ pp_TxnType MWALLET
+
+  Envelop pp_Amount[19900],<br/>pp_AuthCode[],<br/>pp_BillReference[133],<br/>pp_CNIC[629177],<br/>pp_DiscountedAmount[],<br/>pp_Language[EN],<br/>pp_MerchantID[MC0798],<br/>pp_MobileNumber[03002874299],<br/>pp_ResponseCode[156],<br/>pp_ResponseMessage[Oops, something went wrong. We think either your wallet does not exist or your cnic did not match. Please check with our helpline for details.],<br/>pp_RetreivalReferenceNo[],<br/>pp_SecureHash[8D99C0F9E53CA3BB50B56BFC8A4CACAEF6FB7FAB6FFE4557911FDA2583496314],<br/>pp_SubMerchantID[],<br/>pp_TxnCurrency[PKR],<br/>pp_TxnDateTime[20230519121039],<br/>pp_TxnRefNo[T2023051912103900873],<br/>pp_TxnType[MWALLET],<br/>pp_Version[2.0],<br/>ppmpf_1[],<br/>ppmpf_2[],<br/>ppmpf_3[],<br/>ppmpf_4[],<br/>ppmpf_5[],<br/>Secure Hash mismatched.
+Return Status :: pending
+Order Message :: 
+Return Status :: pending
+Order Message :: 
+***************************************************
+Order No# :: T2023051912132000105
+Order Time :: 2023-05-19 12:13:20
+Response 1
+Response Code 999
+ pp_TxnType MWALLET
+
+  Envelop pp_Amount[19900],<br/>pp_AuthCode[],<br/>pp_BillReference[134],<br/>pp_CNIC[629177],<br/>pp_DiscountedAmount[],<br/>pp_Language[EN],<br/>pp_MerchantID[00146389],<br/>pp_MobileNumber[03002874299],<br/>pp_ResponseCode[999],<br/>pp_ResponseMessage[The balance in account of provided JazzCash Account is insufficient for the transaction.],<br/>pp_RetreivalReferenceNo[230519578821],<br/>pp_SecureHash[6DCE637622195FAA351CEE367B5A1C7E9CAF199D8BB674EFB60211614C4BC70F],<br/>pp_SubMerchantID[],<br/>pp_TxnCurrency[PKR],<br/>pp_TxnDateTime[20230519121320],<br/>pp_TxnRefNo[T2023051912132000105],<br/>pp_TxnType[MWALLET],<br/>pp_Version[2.0],<br/>ppmpf_1[],<br/>ppmpf_2[],<br/>ppmpf_3[],<br/>ppmpf_4[],<br/>ppmpf_5[],<br/>
+Return Status :: mwFailure
+Order Message :: <span style="color:red;" >MWALLET Failure.</span>
+Return Status :: mwFailure
+Order Message :: <span style="color:red;" >MWallet Failure.</span>
+***************************************************
+Order No# :: T2023051912233200691
+Order Time :: 2023-05-19 12:23:32
+Response 1
+Response Code 999
+ pp_TxnType MWALLET
+
+  Envelop pp_Amount[19900],<br/>pp_AuthCode[],<br/>pp_BillReference[135],<br/>pp_CNIC[629177],<br/>pp_DiscountedAmount[],<br/>pp_Language[EN],<br/>pp_MerchantID[00146389],<br/>pp_MobileNumber[03002874299],<br/>pp_ResponseCode[999],<br/>pp_ResponseMessage[The balance in account of provided JazzCash Account is insufficient for the transaction.],<br/>pp_RetreivalReferenceNo[230519581450],<br/>pp_SecureHash[FAA47799E4BBC167F110CBA5296801426C74C401D4AFECF962C21B493764F440],<br/>pp_SubMerchantID[],<br/>pp_TxnCurrency[PKR],<br/>pp_TxnDateTime[20230519122332],<br/>pp_TxnRefNo[T2023051912233200691],<br/>pp_TxnType[MWALLET],<br/>pp_Version[2.0],<br/>ppmpf_1[],<br/>ppmpf_2[],<br/>ppmpf_3[],<br/>ppmpf_4[],<br/>ppmpf_5[],<br/>
+Return Status :: mwFailure
+Order Message :: <span style="color:red;" >MWALLET Failure.</span>
+Return Status :: mwFailure
+Order Message :: <span style="color:red;" >MWallet Failure.</span>
+Return Status :: mwFailure
+Order Message :: <span style="color:red;" >Sorry! Your Order has been failed.</span>
+Return Status :: mwFailure
+Order Message :: <span style="color:red;" >MWallet Failure.</span>
+***************************************************
+Order No# :: T2023051913244000605
+Order Time :: 2023-05-19 01:24:40
+***************************************************
+Order No# :: T2023051913254800881
+Order Time :: 2023-05-19 01:25:48
+Response 1
+Response Code 999
+ pp_TxnType MWALLET
+
+  Envelop pp_Amount[19900],<br/>pp_AuthCode[],<br/>pp_BillReference[136],<br/>pp_CNIC[629177],<br/>pp_DiscountedAmount[],<br/>pp_Language[EN],<br/>pp_MerchantID[00146389],<br/>pp_MobileNumber[03002874299],<br/>pp_ResponseCode[999],<br/>pp_ResponseMessage[The balance in account of provided JazzCash Account is insufficient for the transaction.],<br/>pp_RetreivalReferenceNo[230519594625],<br/>pp_SecureHash[B8D27FCA5FDB0B8B0C35CD5B0BC671CCC52895F9D8775A9E59914D00B4CA4EAE],<br/>pp_SubMerchantID[],<br/>pp_TxnCurrency[PKR],<br/>pp_TxnDateTime[20230519132440],<br/>pp_TxnRefNo[T2023051913244000605],<br/>pp_TxnType[MWALLET],<br/>pp_Version[2.0],<br/>ppmpf_1[],<br/>ppmpf_2[],<br/>ppmpf_3[],<br/>ppmpf_4[],<br/>ppmpf_5[],<br/>
+Response 1
+Response Code 156
+ pp_TxnType MWALLET
+
+  Envelop pp_Amount[19900],<br/>pp_AuthCode[],<br/>pp_BillReference[137],<br/>pp_CNIC[345678],<br/>pp_DiscountedAmount[],<br/>pp_Language[EN],<br/>pp_MerchantID[00146389],<br/>pp_MobileNumber[03026067606],<br/>pp_ResponseCode[156],<br/>pp_ResponseMessage[Oops, something went wrong. We think either your wallet does not exist or your cnic did not match. Please check with our helpline for details.],<br/>pp_RetreivalReferenceNo[],<br/>pp_SecureHash[4E6046AFC348C8568F2D3BB539E874E325460C5F5CE4366F2ED653080923B25A],<br/>pp_SubMerchantID[],<br/>pp_TxnCurrency[PKR],<br/>pp_TxnDateTime[20230519132548],<br/>pp_TxnRefNo[T2023051913254800881],<br/>pp_TxnType[MWALLET],<br/>pp_Version[2.0],<br/>ppmpf_1[],<br/>ppmpf_2[],<br/>ppmpf_3[],<br/>ppmpf_4[],<br/>ppmpf_5[],<br/>
+Return Status :: mwFailure
+Order Message :: <span style="color:red;" >Sorry! Your Order has been failed.</span>
+Return Status :: mwFailure
+Order Message :: <span style="color:red;" >Sorry! Your Order has been failed.</span>
+Return Status :: mwFailure
+Order Message :: <span style="color:red;" >Sorry! Your Order has been failed.</span>
+Return Status :: mwFailure
+Order Message :: <span style="color:red;" >Sorry! Your Order has been failed.</span>
+***************************************************
+Order No# :: T2023051913273500656
+Order Time :: 2023-05-19 01:27:35
+***************************************************
+Order No# :: T2023051913282400054
+Order Time :: 2023-05-19 01:28:24
+***************************************************
+Order No# :: T2023051913284500978
+Order Time :: 2023-05-19 01:28:45
